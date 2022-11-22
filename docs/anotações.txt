@@ -1,0 +1,15 @@
+mer/der;
+criação da documentação > contato com o cliente
+> start no projeto
+
+requisitos funcionais;
+requisitos opcionais;
+
+tela com mesas;
+
+cadastro de clientes >
+nome, endereço e telefone;
+barra de pesquisa de clientes por nome e telefone;
+editar cadastro;
+opcional: historico de compra de cada cliente
+            data e hora da compra e valor;
